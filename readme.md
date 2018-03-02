@@ -25,6 +25,7 @@ https://botcheck.me/
 
 ## THEORY
 https://medium.com/dfrlab/botspot-twelve-ways-to-spot-a-bot-aedc7d9c110c
+https://www.kaggle.com/jonathanbouchet/beware-of-trolls?utm_medium=email&utm_source=mailchimp&utm_campaign=datanotes+feb+22+2018
 
 ## BOTLISTS
 https://www.recode.net/2017/11/2/16598312/russia-twitter-trump-twitter-deactivated-handle-list (all deactivated)
